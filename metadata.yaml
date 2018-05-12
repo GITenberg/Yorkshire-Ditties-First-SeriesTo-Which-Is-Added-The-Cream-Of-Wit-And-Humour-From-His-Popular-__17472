@@ -1,0 +1,42 @@
+_repo: Yorkshire-Ditties-First-SeriesTo-Which-Is-Added-The-Cream-Of-Wit-And-Humour-From-His-Popular-__17472
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hartley, John
+    birthdate: 1839
+    deathdate: 1915
+    gutenberg_agent_id: '7408'
+    url: http://www.gutenberg.org/2009/agents/7408
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2006-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17472'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dialect poetry, English -- England -- Yorkshire'
+- !lcsh 'Poetry of places'
+- !lcsh 'Yorkshire (England) -- Poetry'
+- !lcc 'PR'
+tableOfContents: Bite Bigger -- To th' Swallow -- Plenty o' Brass -- Th' Little Stranger
+  -- Babby Burds -- Wayvin Mewsic -- That's a Fact -- Stop at Hooam -- The Short Timer
+  -- Th' First o'th' Soart -- Lines on Finding a Butterfly in a Weaving Shed -- Uncle
+  Ben -- The New Year's Resolve -- The Old Bachelor's Story -- Aght o' Wark -- Another
+  Babby -- The Little Black Hand -- Lily's Gooan -- My Native Twang -- Shoo's thi'
+  Sister -- Persevere -- To a Roadside Flower -- The New Year -- Valentine Day --
+  March Winds -- April Fooils -- Policeman's Scrape -- Information -- Watterin' Places
+  -- Flaar Shows -- October Ale -- Force of Example -- Gunpaader Plot -- Th' Last
+  Month -- Meditated Strike -- New Year's Parties -- Smiles, Tears, Getting on --
+  Mysterious Disappearance -- Sam it up -- Fooils -- Cleanin' Daan Month -- Hay-making
+  -- Hollingworth Lake -- Plagues -- End o'th' Year -- Scientific -- Valentine Dream
+title: 'Yorkshire Ditties, First Series
+
+  To Which Is Added The Cream Of Wit And Humour From His Popular Writings'
+url: http://www.gutenberg.org/ebooks/17472
